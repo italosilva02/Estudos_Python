@@ -1,0 +1,14 @@
+Olá mundo!
+Meu nome é Italo Silva!
+Eu tenho 24 anos
+Estou estudando Python!
+Faço Analise e Desenvolvimento de Sistema
+Bye!
+----------------------------------------------------------------------------------------------------
+Olá mundo!
+Meu nome é Ana Julia!
+Eu tenho 28 anos
+Estou estudando Java!
+Engenharia de software
+Tchau Tchau :3!
+----------------------------------------------------------------------------------------------------

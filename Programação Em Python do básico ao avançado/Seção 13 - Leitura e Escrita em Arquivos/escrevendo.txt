@@ -1,0 +1,3 @@
+Esse arquivo não existe.
+Caso abrimos o arquivo com o w e ele não existir
+O arquivo escrevendo.txt será criado e será escrito o que foi digitado

@@ -196,3 +196,12 @@ O Python oferece uma ampla variedade de funções integradas que são úteis par
 - `zip(iterable1, iterable2, ...)`: Combina múltiplos iterables em tuplas.
 
 - `__import__(name, globals, locals, fromlist, level)`: Função interna usada para importar módulos.
+
+
+# **Machine Learning e Data Science com Python de A a Z**
+
+![image](https://github.com/italosilva02/Estudos_Python/assets/74626129/05d7adde-5776-4774-b7b1-4daf8b1fa18a)
+
+
+
+

@@ -1,0 +1,7 @@
+Maria : 5.4
+Carlos : 8.7
+Kaique : 5.6
+Marta : 7.6
+Barbara : 8.1
+Sam : 9.5
+Luiz : 4.5

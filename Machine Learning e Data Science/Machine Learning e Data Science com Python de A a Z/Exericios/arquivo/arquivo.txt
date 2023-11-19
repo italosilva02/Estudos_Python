@@ -1,5 +1,0 @@
-Italo, 8.5
-Maria, 9.6
-Carla, 4.5
-Bruna, 9.6
-Barb, 4.8
